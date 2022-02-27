@@ -26,7 +26,6 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 _____________________________________
 
 ## Powered by a heavily modified version of Psych Engine known as Legacy Engine!
-![Kade Engine Logo](https://github.com/KadeDev/Kade-Engine/blob/stable/assets/preload/images/KadeEngineLogo.png)
 
 ## Dave
 this is dave
