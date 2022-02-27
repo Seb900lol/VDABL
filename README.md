@@ -1,4 +1,4 @@
-# Friday Night Funkin' - Psych Engine
+## Powered by a modified version of Psych Engine!
 
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
@@ -9,7 +9,6 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 
 ...Or if you don't want your mod to be able to run .lua scripts, delete the "LUA_ALLOWED" line on Project.xml
 
-## Powered by a modified version of Psych Engine!
 this is dave
 ![Dave](https://cdn.discordapp.com/attachments/892140166309892136/905267141299802152/dorve_reale.png)
 
